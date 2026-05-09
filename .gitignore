@@ -1,0 +1,9 @@
+# 가상환경 폴더
+antigravity/
+
+# 환경 변수 파일
+.env
+
+# Jupyter Notebook 임시 파일
+.ipynb_checkpoints/
+__pycache__/
